@@ -15,5 +15,6 @@ public class Demo {
 		System.out.println(variable1);
 		variable1 += 300;
 		System.out.println(variable1);
+		// Cosas adicionales para tener puntos de conexión en el árbol
 	}
 }
