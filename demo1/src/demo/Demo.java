@@ -2,6 +2,7 @@ package demo;
 
 public class Demo {
 	/** Esto en realidad es un comentario realizado en la rama de master */
+	/** Otro comentario, ahora desde la rama cambios1 */
 	private int variable1;
 	
 	
