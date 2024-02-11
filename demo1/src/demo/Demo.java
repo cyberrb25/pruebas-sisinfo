@@ -5,8 +5,12 @@ public class Demo {
 	/** Otro comentario, ahora desde la rama cambios1 */
 	private int variable1;
 	
+	/** Quiero otra variable que tratar aquí */
+	private boolean estaBien;
+	
 	
 	public Demo(int v1){
+		estaBien = false;
 		variable1 = v1;
 		System.out.println(variable1);
 		variable1 += 300;
